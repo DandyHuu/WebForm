@@ -1,0 +1,4 @@
+ ADD: m? git bash (màn hình console) lên, gõ: git add *
+ COMMIT: cung trên bash, gõ: git commit -m "n?i d?ng dã th?c hi?n"
+                  trong dó cái trong d?u ngo?c kép là ghi chú c?a vi?c commit, cái này b?t bu?c nh?p 
+ PUSH: cung trên bash, gõ: git push origin master
