@@ -121,9 +121,9 @@
             // panel9
             // 
             this.panel9.Controls.Add(this.tabControl4);
-            this.panel9.Location = new System.Drawing.Point(6, 6);
+            this.panel9.Location = new System.Drawing.Point(6, 3);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(756, 267);
+            this.panel9.Size = new System.Drawing.Size(756, 270);
             this.panel9.TabIndex = 1;
             // 
             // tabPage3
@@ -167,9 +167,9 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.tabControl3);
-            this.panel1.Location = new System.Drawing.Point(7, 7);
+            this.panel1.Location = new System.Drawing.Point(7, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(755, 263);
+            this.panel1.Size = new System.Drawing.Size(755, 267);
             this.panel1.TabIndex = 0;
             // 
             // tabControl3
@@ -178,10 +178,10 @@
             this.tabControl3.Controls.Add(this.tabPage12);
             this.tabControl3.Controls.Add(this.tabPage13);
             this.tabControl3.Controls.Add(this.tabPage14);
-            this.tabControl3.Location = new System.Drawing.Point(4, 4);
+            this.tabControl3.Location = new System.Drawing.Point(4, 3);
             this.tabControl3.Name = "tabControl3";
             this.tabControl3.SelectedIndex = 0;
-            this.tabControl3.Size = new System.Drawing.Size(748, 256);
+            this.tabControl3.Size = new System.Drawing.Size(748, 257);
             this.tabControl3.TabIndex = 0;
             // 
             // tabPage11
@@ -189,7 +189,7 @@
             this.tabPage11.Location = new System.Drawing.Point(4, 29);
             this.tabPage11.Name = "tabPage11";
             this.tabPage11.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage11.Size = new System.Drawing.Size(740, 223);
+            this.tabPage11.Size = new System.Drawing.Size(740, 224);
             this.tabPage11.TabIndex = 0;
             this.tabPage11.Text = "Hiển thị";
             this.tabPage11.UseVisualStyleBackColor = true;
@@ -275,9 +275,9 @@
             // panel2
             // 
             this.panel2.Controls.Add(this.tabControl2);
-            this.panel2.Location = new System.Drawing.Point(4, 4);
+            this.panel2.Location = new System.Drawing.Point(4, 3);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(761, 269);
+            this.panel2.Size = new System.Drawing.Size(761, 270);
             this.panel2.TabIndex = 0;
             // 
             // tabControl2
@@ -286,10 +286,10 @@
             this.tabControl2.Controls.Add(this.tabPage8);
             this.tabControl2.Controls.Add(this.tabPage9);
             this.tabControl2.Controls.Add(this.tabPage10);
-            this.tabControl2.Location = new System.Drawing.Point(6, 6);
+            this.tabControl2.Location = new System.Drawing.Point(6, 3);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(748, 256);
+            this.tabControl2.Size = new System.Drawing.Size(748, 259);
             this.tabControl2.TabIndex = 1;
             // 
             // tabPage7
@@ -297,7 +297,7 @@
             this.tabPage7.Location = new System.Drawing.Point(4, 29);
             this.tabPage7.Name = "tabPage7";
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage7.Size = new System.Drawing.Size(740, 223);
+            this.tabPage7.Size = new System.Drawing.Size(740, 226);
             this.tabPage7.TabIndex = 0;
             this.tabPage7.Text = "Hiển thị";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -333,9 +333,9 @@
             // panel4
             // 
             this.panel4.Controls.Add(this.tabControl6);
-            this.panel4.Location = new System.Drawing.Point(4, 4);
+            this.panel4.Location = new System.Drawing.Point(4, 3);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(761, 269);
+            this.panel4.Size = new System.Drawing.Size(761, 270);
             this.panel4.TabIndex = 0;
             // 
             // tabControl6
@@ -344,10 +344,10 @@
             this.tabControl6.Controls.Add(this.tabPage24);
             this.tabControl6.Controls.Add(this.tabPage25);
             this.tabControl6.Controls.Add(this.tabPage26);
-            this.tabControl6.Location = new System.Drawing.Point(6, 6);
+            this.tabControl6.Location = new System.Drawing.Point(6, 3);
             this.tabControl6.Name = "tabControl6";
             this.tabControl6.SelectedIndex = 0;
-            this.tabControl6.Size = new System.Drawing.Size(748, 256);
+            this.tabControl6.Size = new System.Drawing.Size(748, 259);
             this.tabControl6.TabIndex = 1;
             // 
             // tabPage23
@@ -355,7 +355,7 @@
             this.tabPage23.Location = new System.Drawing.Point(4, 29);
             this.tabPage23.Name = "tabPage23";
             this.tabPage23.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage23.Size = new System.Drawing.Size(740, 223);
+            this.tabPage23.Size = new System.Drawing.Size(740, 226);
             this.tabPage23.TabIndex = 0;
             this.tabPage23.Text = "Hiển thị";
             this.tabPage23.UseVisualStyleBackColor = true;
