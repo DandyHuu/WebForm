@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CafeForm\CafeForm\bin\Debug\CafeForm.exe.config
+C:\Users\admin\source\repos\CafeForm\CafeForm\bin\Debug\CafeForm.exe
+C:\Users\admin\source\repos\CafeForm\CafeForm\bin\Debug\CafeForm.pdb
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.Form1.resources
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.Properties.Resources.resources
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.exe
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.pdb
+C:\Users\admin\source\repos\CafeForm\CafeForm\obj\Debug\CafeForm.Main.resources
